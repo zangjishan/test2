@@ -18,6 +18,36 @@
     <ClCompile Include="001图像读取与显示.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="002图像色彩空间转换.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="003图像对象的创建与赋值.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="004图像像素的读写操作.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="005图像像素的算术操作.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="006滚动条操作演示.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="007滚动条操作演示-参数传递度.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="009OpenCV自带颜色表操作.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="010图像像素的逻辑操作.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="011通道分离与合并.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="012图像色彩空间转换.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="quickdemo.h">

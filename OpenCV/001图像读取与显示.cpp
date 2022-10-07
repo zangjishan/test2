@@ -26,6 +26,7 @@ int main()
 	//qd.channels_demo(girl);
 	//qd.inrange_demo(girl);
 
+	printf("change-1");
 	waitKey(0);
 	destroyAllWindows();
 	return 0;
